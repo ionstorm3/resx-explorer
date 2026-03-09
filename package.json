@@ -17,6 +17,17 @@
         "command": "resx-explorer.helloWorld",
         "title": "Hello World"
       }
+    ],
+    "customEditors": [
+      {
+        "viewType": "resx-explorer.editor",
+        "displayName": "Resx Editor",
+        "selector": [
+          {
+            "filenamePattern": "*.resx"
+          }
+        ]
+      }
     ]
   },
   "scripts": {

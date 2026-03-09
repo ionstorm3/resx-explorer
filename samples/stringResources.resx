@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- String resources -->
+  <data name="HelloMessage" xml:space="preserve">
+    <value>Hello, world!</value>
+  </data>
+
+  <data name="WelcomeUser" xml:space="preserve">
+    <value>Welcome, {0}!</value>
+  </data>
+
+  <data name="Error_FileNotFound" xml:space="preserve">
+    <value>The requested file could not be found.</value>
+  </data>
+
+  <data name="Button_Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+
+</root>
